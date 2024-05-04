@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #f0e2d1;
+} 
+h1, h3, h6 {
+  text-align: center;
+}
+.row {
+  margin-bottom: 20px;
+  padding: 10px;
+  text-align: center;
+}
+.col {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 10px;
+  border-style: solid;
+  border-width: 5px;
+  transition: 0.3s;
+}
+.col:hover{
+  background-color: #e4c6a5;
+}
